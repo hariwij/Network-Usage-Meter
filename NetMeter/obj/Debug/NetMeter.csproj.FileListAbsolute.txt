@@ -1,0 +1,10 @@
+D:\My Projects\C# Git\NetMeter\NetMeter\bin\Debug\NetMeter.exe
+D:\My Projects\C# Git\NetMeter\NetMeter\bin\Debug\NetMeter.pdb
+D:\My Projects\C# Git\NetMeter\NetMeter\obj\Debug\NetMeter.Form1.resources
+D:\My Projects\C# Git\NetMeter\NetMeter\obj\Debug\NetMeter.Properties.Resources.resources
+D:\My Projects\C# Git\NetMeter\NetMeter\obj\Debug\NetMeter.csproj.GenerateResource.cache
+D:\My Projects\C# Git\NetMeter\NetMeter\obj\Debug\NetMeter.csproj.CoreCompileInputs.cache
+D:\My Projects\C# Git\NetMeter\NetMeter\obj\Debug\NetMeter.exe
+D:\My Projects\C# Git\NetMeter\NetMeter\obj\Debug\NetMeter.pdb
+D:\My Projects\C# Git\NetMeter\NetMeter\obj\Debug\NetMeter.Form2.resources
+D:\My Projects\C# Git\NetMeter\NetMeter\obj\Debug\NetMeter.Form3.resources

@@ -1,0 +1,8 @@
+Hello go files 0 times!
+Hello go files 1 times!
+Hello go files 2 times!
+Hello go files 3 times!
+Hello go files 4 times!
+Hello go files 5 times!
+Hello go files 6 times!
+Hello go files 7 times!

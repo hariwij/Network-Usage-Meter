@@ -1,0 +1,1 @@
+Hello go files 0 times!
